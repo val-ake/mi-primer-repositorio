@@ -1,11 +1,11 @@
 @import url("https://fon.googleapis.com/css2?family=Mooli&display=swap" );
 body{
-    background:yellow;
+    background:rgb(26, 26, 23);
     font-family: 'Mooli', sans-serif;
 }
 div{
     width:80%;
-    background:white;
+    background:rgb(206, 243, 42);
  margin:10px auto;
  padding: 10px 20px;
  border: radius 5px; ;
